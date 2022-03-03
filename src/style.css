@@ -1,20 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@300&display=swap');
 
 :root {
     --heading-font: "Montserrat", sans-serif;
-    --paragraph-font: "Lato", sans-serif;
-    --paragraph-size: 1rem;
-    --h1-size: 3rem;
+    --paragraph-font: "Karla", sans-serif;
+    --paragraph-size: 1.1rem;
+    --h1-size: 4rem;
     --h2-size: 2rem;
     --font-color: #e3d7bd;
+    --nav-heading-color: #d0a865;
 }
 
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-    background-image: url("images/background\ final.png");
+    background-image: url("images/background.png");
 }
     /* Navigation Style */
 nav {
@@ -47,21 +48,23 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: var(--font-color);
+    color:  var(--nav-heading-color);
 }
 
     /* Main Heading */
 h1 {
+    padding: 2rem;
     text-align: center;
     font-size: var(--h1-size);
     font-family: var(--heading-font);
-    color: var(--font-color);
+    color:  var(--nav-heading-color);
 }
 
 p {
 
     margin: 0.5rem;
-    text-align: justify;
+    padding: 1rem;
+    text-align: center;
     font-family: var(--paragraph-font);
     font-size: var(--paragraph-size);
     color: var(--font-color);
@@ -73,12 +76,12 @@ h2 {
     padding-bottom: 2rem;
     font-family: var(--heading-font);
     font-size: var(--h2-size);
-    color: var(--font-color);
+    color:  var(--nav-heading-color);
     
 }
 
 h3 {
-    color: var(--font-color);
+    color:  var(--nav-heading-color);
 }
 
     /* Image and Recent work*/
@@ -119,14 +122,14 @@ h3 {
 }
 
 .card {
-    box-shadow: 0px 2px 8px 0px grey;
+    box-shadow: 0px 3px 4px 0px #e3d7bd;
     text-align: center;
     margin: 0.5rem;
+
 }
 
 .title {
     padding: 0.5rem;
-    background: none;
 }
 
 .desc {
@@ -190,7 +193,8 @@ article p {
 }
 
 .form input {
-    width: 100%;
+    width: 50vw;
+    margin-left: 25vw;
     height: 2rem;
     background: none;
     background-color: var(--font-color);
@@ -199,21 +203,26 @@ article p {
 .form #message {
     width: 100%;
     height: 10rem;
+    width: 50vw;
+    margin-left: 25vw;
     background: none;
     background-color: var(--font-color);
 }
 
 label {
-    padding: 0.5rem;
+    padding: 0.6rem;
     display: block;
     text-align: center;
     color: var(--font-color);
 }
 
 .form #button:hover {
-    background-color: red;
+    background-color: grey;
 }
+
 .form #button {
+    width: 10vw;
+    margin-left: 43vw;
     background: none;
     background-color: var(--font-color);
 }
@@ -271,7 +280,12 @@ label {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    padding: 1.5rem;
+
+
+}
+
+#socials img {
+    max-width: 4rem;
 }
 
     /* Footer */
