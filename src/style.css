@@ -9,13 +9,14 @@
     --h2-size: 2rem;
     --font-color: #e3d7bd;
     --nav-heading-color: #d0a865;
+    --hover-colour: #f15723;
 }
 
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-    background-image: url("images/background.png");
+    background-image: url("images/background\ final.png");
 }
 
 /* Navigation */
@@ -23,11 +24,9 @@ nav {
     display: flex;
     width: 100%;
     flex-direction: row-reverse;
+    padding-top: 0.5rem;
 }
 
-nav #logo {
-    height: 3rem;
-}
 
 nav ul {
     display: flex;
@@ -48,6 +47,7 @@ nav ul li a {
     text-decoration: none;
     color:  var(--nav-heading-color);
 }
+
 
 /* Main Heading */
 h1 {
@@ -142,7 +142,7 @@ h3 {
 }
 
 .desc {
-    text-align: cennter;
+    text-align: center;
     padding: 0.5rem;
     font-size: 0.9rem;
     color: var(--font-color);
@@ -229,7 +229,7 @@ label {
 }
 
 .form #button:hover {
-    background-color: grey;
+    background-color:   var(--hover-colour);
 }
 
 .form #button {
@@ -306,6 +306,11 @@ label {
         color: #f15723;
     }
 
+    nav #logo {
+        height: 1.5rem;
+        padding-right: 1rem;
+    }
+
 }
 
 @media screen and (min-width: 426px) and (max-width: 820px) { 
@@ -346,6 +351,11 @@ label {
     nav ul li a:hover {
         color: #f15723;
         font-size: 1.3rem;
+    }
+
+    nav #logo {
+        height: 1.5rem;
+        padding-right: 1rem;
     }
 
 }
@@ -393,12 +403,12 @@ label {
     nav ul li a:hover {
         color: #f15723;
         font-size: 1.3rem;
+
+    }
+
+    nav #logo {
+        height: 2rem;
+        padding-right: 1rem;
     }
 
 }
-
-
-
-
-
-
