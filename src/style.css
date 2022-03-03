@@ -132,7 +132,7 @@ h3 {
 .desc {
     text-align: justify;
     padding: 0.5rem;
-    font-size: 0.7rem;
+    font-size: 0.9rem;
 }
 
 .bg-img img{
@@ -267,7 +267,7 @@ label {
     
 }
     /* Social Links */
-#socials div {
+#socials {
     display: flex;
     flex-direction: row;
     justify-content: center;
