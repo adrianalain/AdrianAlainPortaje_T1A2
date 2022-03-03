@@ -368,6 +368,12 @@ label {
         height: 20rem;     
     }
 
+    article img {
+    width: 30%;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    }
+
     .form #button {
         width: 20vw;
         margin-left: 40vw;
