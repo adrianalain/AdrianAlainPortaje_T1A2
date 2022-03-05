@@ -27,33 +27,33 @@ My portfolio consists of 5 pages which is reponsive to desktop, table, and mobil
 ## Sitemap
 The sitemap contains a main homepage and has linked the other pages which are the about page, project page, contact page and blog page. The blog page has a separate link to a blog post page.
 
-![Sitemap](Sitemap.png)
+![Sitemap](/docs/Sitemap.png)
 
 ## Screenshots
 
 ### Home Page 
 
-![Home Page](/homepage.png)
+![Home Page](/docs//homepage.png)
 
 ### About Page 
 
-![About Page](/about%20.png)
+![About Page](/docs//about%20.png)
 
 ### Project Page 
 
-![Project Page](/project.png)
+![Project Page](/docs//project.png)
 
 ### Blog Page 
 
-![Blog Page](/blog.png)
+![Blog Page](/docs//blog.png)
 
 ### Blogpost Page 
 
-![Blogpost Page](/blogpost.png)
+![Blogpost Page](/docs//blogpost.png)
 
 ### Contact Page 
 
-![Contact Page](/contact.png)
+![Contact Page](/docs//contact.png)
 
 ## Target Audience
 
