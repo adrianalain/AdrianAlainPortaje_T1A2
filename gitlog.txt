@@ -1,0 +1,113 @@
+commit 6ad821da97559ebe14d3dbad9fcb5c911560b5f0
+Author: Adrian Alain Portaje <adrianalain@Alain-MacBook-Pro.local>
+Date:   Sun Mar 6 00:33:46 2022 +1000
+
+    Final Uplaod
+
+commit 6c859b2a7a57f0b67d2c81fcefd46f8f23cf34a5
+Author: Adrian Alain Portaje <adrianalain@Alain-MacBook-Pro.local>
+Date:   Sun Mar 6 00:26:25 2022 +1000
+
+    Uploading Slidedeck
+
+commit 17a6164f021f1ab55555a9b6d9a1b6406d7afa39
+Author: Adrian Alain Portaje <adrianalain@Alain-MacBook-Pro.local>
+Date:   Sun Mar 6 00:00:04 2022 +1000
+
+    Updated icon for all pages
+
+commit 82d4c9a38a35db56b81c350e82ff8d9d49a961e0
+Author: Adrian Alain Portaje <adrianalain@Alain-MacBook-Pro.local>
+Date:   Sat Mar 5 20:59:31 2022 +1000
+
+    Updating Wireframe
+
+commit 087d126191f34876d78c553748a6b9f1b0bff47f
+Author: Adrian Alain Portaje <adrianalain@Alain-MacBook-Pro.local>
+Date:   Sat Mar 5 20:54:20 2022 +1000
+
+    Finished README
+
+commit 56c4c1d14daeb571ad0d5d630381c82ff0d02f91
+Author: Adrian Alain Portaje <adrianalain@Alain-MacBook-Pro.local>
+Date:   Fri Mar 4 13:51:41 2022 +1000
+
+    adding wireframe
+
+commit 4da2e7b7d37042b3a57528de35a742f8c3f4aeda
+Author: Adrian Alain Portaje <adrianalain@Alain-MacBook-Pro.local>
+Date:   Fri Mar 4 13:02:01 2022 +1000
+
+    updating about page
+
+commit ec48720cdd3ce24d029137ab638fc1ad0a1ade58
+Author: Adrian Alain Portaje <adrianalain@Alain-MacBook-Pro.local>
+Date:   Fri Mar 4 12:53:02 2022 +1000
+
+    css complete
+
+commit e25264e931bb975e08e7131ca6228c2a09d30f7a
+Author: Adrian Alain Portaje <adrianalain@Alain-MacBook-Pro.local>
+Date:   Fri Mar 4 12:22:08 2022 +1000
+
+    Final Portfolio
+
+commit acfca05184fd374f7d02a4203c2ec2a17337d3d1
+Author: Adrian Alain Portaje <adrianalain@Alain-MacBook-Pro.local>
+Date:   Fri Mar 4 01:07:41 2022 +1000
+
+    Pre-Final Ouptut of Website
+
+commit 5d078b34656d74b17b80aedd3a7c55e0f7fdacec
+Author: Adrian Alain Portaje <adrianalain@Alain-MacBook-Pro.local>
+Date:   Fri Mar 4 01:04:02 2022 +1000
+
+    Pre-Final Output of Website
+
+commit 9b270442e7bb6d84ff66bdcb2db3cf46edfac203
+Author: Adrian Alain Portaje <adrianalain@Alain-MacBook-Pro.local>
+Date:   Thu Mar 3 21:26:50 2022 +1000
+
+    Css update
+
+commit 3b2ce45808fff3ad97f920e4341fbb6d3ec0da79
+Author: Adrian Alain Portaje <adrianalain@Alain-MacBook-Pro.local>
+Date:   Thu Mar 3 21:20:45 2022 +1000
+
+    Updating the Screen size for mobile and tablet view
+
+commit 8323d3efd15744d5ad135f64cbad08427260f08f
+Author: Adrian Alain Portaje <adrianalain@Alain-MacBook-Pro.local>
+Date:   Thu Mar 3 12:23:50 2022 +1000
+
+    Changing Colour of paragraph, h1, nav and background
+
+commit 7734942a9fe2999ff80f81fb7e28caf7218b5b80
+Author: Adrian Alain Portaje <adrianalain@Alain-MacBook-Pro.local>
+Date:   Thu Mar 3 10:27:30 2022 +1000
+
+    Update in Portfolio
+
+commit 14503ce6c65cb0375f840129c1a02481f803c9eb
+Author: Adrian Alain Portaje <adrianalain@Alain-MacBook-Pro.local>
+Date:   Wed Mar 2 15:29:10 2022 +1000
+
+    Changing Background image and colours
+
+commit f13291692210ee64c9f1299834bac81b3a92dd0f
+Author: Adrian Alain Portaje <adrianalain@Alain-MacBook-Pro.local>
+Date:   Wed Mar 2 14:34:24 2022 +1000
+
+    Changing the Website Font, Others
+
+commit e6306117997fa7b90f9e6ed92a8e5d043087d8c9
+Author: Adrian Alain Portaje <adrianalain@Alain-MacBook-Pro.local>
+Date:   Wed Mar 2 12:06:02 2022 +1000
+
+    Updated Wireframe
+
+commit 8539d4e51a98a9bc6c302233e4ba49997c3facfb
+Author: Adrian Alain Portaje <adrianalain@Alain-MacBook-Pro.local>
+Date:   Wed Mar 2 11:23:56 2022 +1000
+
+    Almost Finished Portfolio
